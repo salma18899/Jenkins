@@ -1,5 +1,7 @@
 ## Jenkins Poll SCM vs Webhook
 
+![image](https://github.com/salma18899/Jenkins/assets/126831581/cefd748b-5c6a-4758-b856-597c3555bab6)
+
 Both Jenkins Poll SCM and Webhook serve to trigger builds automatically in Jenkins, but they operate in different ways and have distinct advantages and disadvantages. Here’s a comparison to help you decide which is best suited for your use case:
 
 | Feature       | Poll SCM                                   | Webhook                                     |
