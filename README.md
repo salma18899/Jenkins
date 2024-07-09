@@ -13,3 +13,7 @@ Both Jenkins Poll SCM and Webhook serve to trigger builds automatically in Jenki
 ### Recommendations
 
 For most modern CI/CD workflows, **webhooks** are generally preferred due to their efficiency and immediate response to changes. However, **Poll SCM** can be useful in scenarios where setting up webhooks is not feasible or when a simpler setup is needed.
+
+## Jenkins Poll SCM 
+![image](https://github.com/salma18899/Jenkins/assets/126831581/53feea01-ce1a-4e67-81de-485db64a553f)
+
